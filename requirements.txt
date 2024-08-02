@@ -1,0 +1,11 @@
+cassio
+datasets
+langchain_community
+langchain_text_splitters
+langchain
+openai
+tiktoken
+pypdf
+PyPDF2
+langchain_groq
+python-dotenv
